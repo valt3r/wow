@@ -1,0 +1,14 @@
+.navbar-brand img{
+    width: 50px;
+}
+.btn.btn-primary{
+    background-color: #000000;
+    border-color: #000000;
+}
+section{
+    min-height: 100vh;
+    padding: 100px 0;
+}
+html{
+    scroll-behavior: smooth;
+}
